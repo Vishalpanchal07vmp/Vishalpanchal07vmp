@@ -1,4 +1,4 @@
-## Hi I am Vishal 👋
+## Hi👋, I am Vishal
 
 <!--
 **vishalpanchal07-blip/vishalpanchal07-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
